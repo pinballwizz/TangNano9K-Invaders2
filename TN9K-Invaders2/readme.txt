@@ -10,5 +10,4 @@ Build:
 * Run the make Invaders2 proms script in the tools folder.
 * Place the generated prom files inside the proms folder.
 * Open the TN9K-Invaders2 project file using Gowin and compile.
-
 * Program Tang Nano 9K Board.
