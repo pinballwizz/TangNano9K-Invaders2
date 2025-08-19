@@ -1,4 +1,4 @@
-Space Invaders Part II Arcade for the Tang Nano 9K Dev FPGA Board.
+Space Invaders Part II Arcade for the Tang Nano 9K Dev FPGA Board. Pinballwiz.org 2025
 
 Notes:
 Controls are PS2 keyboard, F3=Coin F1=P1Start F2=P2Start LeftArrow=Move Left RightArrow=Move Right SpaceBar=Fire UpArrow=Scanlines Off DownArrow=Scanlines On
@@ -10,4 +10,5 @@ Build:
 * Run the make Invaders2 proms script in the tools folder.
 * Place the generated prom files inside the proms folder.
 * Open the TN9K-Invaders2 project file using Gowin and compile.
+
 * Program Tang Nano 9K Board.
